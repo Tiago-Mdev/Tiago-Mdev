@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Olá! Eu sou Tiago Miguel
 
-<!--
-**Tiago-Mdev/Tiago-Mdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Backend em formação
+🚀 Focado em C# e .NET
 
-Here are some ideas to get you started:
+🛠️ Tecnologias
+C# | .NET 10 | ASP.NET Core | Entity Framework Core
+SQL | Git | GitHub | REST APIs | HTML5 | CSS3 | API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente estudando
+• Desenvolvimento de APIs
+• Banco de dados
+• Entity Framework Core
+• Git e GitHub
+
+🚀 Projetos em destaque
+• CRUD de Produtos
+• Filmes API
+• Projetos e exercícios de C#
+
+🎯 Objetivo
+Buscando oportunidade de estágio na área de desenvolvimento
